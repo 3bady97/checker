@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+
+*{
+font-family: 'BioRhyme Expanded', serif;
+font-size: 12px;
+}
+body,html
+{
+background-image: linear-gradient(to right, #170040 , #634169) !important;
+}
+.uk-card-default
+{
+	background-image: linear-gradient(to right, #7853b9 , #833092) !important;
+    color: #fff !important;
+    border-radius: 6px !important;
+}
+.uk-card-default.uk-card-hover:hover
+{
+	background-image: linear-gradient(to right, #7853b9 , #833092) !important;
+    color: #fff !important;
+    border-radius: 6px !important;
+	
+}
+.uk-input, .uk-select, .uk-textarea
+{
+  border-radius: 5px !important;
+}
+.uk-button-default
+{
+	border: 1px solid #00000038 !important;
+}
