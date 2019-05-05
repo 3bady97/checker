@@ -1,22 +1,39 @@
-@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
 
 *{
-font-family: 'BioRhyme Expanded', serif;
-font-size: 12px;
+font-family: 'Raleway', sans-serif;
+font-size: 22px;
 }
 body,html
 {
-background-image: linear-gradient(to right, #170040 , #634169) !important;
+  height: 100%;
 }
+
+html
+{
+background: url("https://f.top4top.net/p_1201jx0342.png") no-repeat center center fixed; ;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 .uk-card-default
 {
-	background-image: linear-gradient(to right, #7853b9 , #833092) !important;
+	background: #ffffff2b !important;
     color: #fff !important;
     border-radius: 6px !important;
 }
+.uk-card-default.uk-card-hover
+{
+	background-image: linear-gradient(to right, #fffefe4f , #00000040) !important;
+    color: #fff !important;
+    border-radius: 6px !important;
+	
+}
 .uk-card-default.uk-card-hover:hover
 {
-	background-image: linear-gradient(to right, #7853b9 , #833092) !important;
+	background-image: linear-gradient(to right, #fffefe4f , #00000040) !important;
     color: #fff !important;
     border-radius: 6px !important;
 	
@@ -28,4 +45,12 @@ background-image: linear-gradient(to right, #170040 , #634169) !important;
 .uk-button-default
 {
 	border: 1px solid #00000038 !important;
+}
+.uk-link, a 
+{
+font-size: 12px !important;
+}
+.uk-text-bottom
+{
+font-size: 15px !important;
 }
