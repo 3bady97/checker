@@ -16,7 +16,7 @@ error_reporting(0);
 	
 </head>
 <body>
-
+<div class="bg">
 <div class="uk-section">
 <div class="uk-container">
 <div class="uk-flex uk-flex-center">
@@ -38,7 +38,20 @@ error_reporting(0);
     <span class="uk-button-text"><input type="submit" class="uk-button uk-button-default" name="submit" value="Check"></span>
     </div>
 
+	
+	
+	
+	
+	
+	
+	
+	
      </div>
+	 <div class="uk-flex uk-flex-center@m uk-flex-right@l">
+    <div>
+      <span class="uk-text-bottom">By &hearts;<a href="https://facebook.com/king3bady" target="_blank"> K3 </a></span> 
+	  </div>
+</div>
     </div>
 
 
